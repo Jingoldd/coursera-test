@@ -1,0 +1,95 @@
+body{
+	background-color: #378235;
+	font-size: 16px;
+	font-family: 'Raleway', sans-serif;
+}
+
+#header-nav {
+	background-color: #069F04;
+	border-radius: 0;
+	border: 0;
+	height: 75px;
+}
+
+.navbar-brand h1 {
+	background-color: none;
+	color: #fff;
+	font-size: 1.5em;
+	margin: 10px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list{
+	margin-top: ;
+	background-color: #069F04;
+	text-align: center;
+}
+
+#nav-list a{
+	color: white;
+	font-size: 1.3em;
+
+}
+
+#nav-list a:hover{
+	color:#fff;
+	background-color:#378235;
+}
+
+#nav-list li {
+	border-bottom: 2px solid #fff;
+
+}
+
+#collapsable-nav{
+	width: 100%
+}
+
+.navbar-toggle{
+	margin-top: 20px;
+	
+}
+
+#page-tittle{
+	margin-top: 100px;
+	color: #fff;
+}
+
+#main-content-div{
+	background-color:#ACE1AB;
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 20px
+}
+
+#main-content-tittle{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #186317
+}
+
+#menu-button{
+	background-color: transparent;
+	border: 2px solid #fff;
+}
+
+#menu-button:hover{
+	background-color: #378235;
+}
+
+#menu-button span{
+	background-color: #fff;
+}
+
+.navbar-nav>li>a{
+	padding-bottom: 25px
+}
+
+#main-content-paragraph{
+	padding: 0px 20px 30px 20px;
+	color: #186317;
+}
